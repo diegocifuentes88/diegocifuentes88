@@ -49,8 +49,3 @@
 <a href="https://instagram.com/diego.cifuentes88"><img src="https://img.shields.io/badge/-@diego.cifuentes88-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/diegocifuentes"><img src="https://img.shields.io/badge/-@DiegoCifuentes-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
-
------
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
